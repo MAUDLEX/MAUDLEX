@@ -149,6 +149,14 @@ a:hover {
     .carousel-item img {
         height: auto; 
     }
+
+    .carousel-caption{
+        background-color: #28282833;
+        width: auto;
+        height: 25%;
+        margin: auto;
+        font-size: smaller;
+    }
     
     .presentacion{
         font-size: 10px;
