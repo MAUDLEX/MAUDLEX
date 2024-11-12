@@ -197,7 +197,7 @@ a:hover {
     }
 
     .contacto{
-        max-width: 100%;
+        max-width: 80% !important;
         margin: auto;
         padding: auto;
         padding-top: 20px;
