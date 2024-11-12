@@ -1,7 +1,7 @@
 /* Estilos generales */
 
 body{
-    background-color: #858686;
+    background-color: #b4b6b6 !important;
     text-align: center;
 }
 
@@ -124,6 +124,35 @@ a:hover {
     color: #DEE2E6;
 }
 
+.contacto{
+    max-width: 30%;
+    margin: auto;
+    padding: auto;
+    padding-top: 20px;
+}
+
+.formulario{
+    padding-top: 20px;
+    background-color: #b4b6b6;
+}
+
+.d-flex .form-control{  
+    margin: 5px !important;
+}
+
+.d-flex .btn{  
+    margin: 5px !important;
+    background-color: #141414;
+    color: #B6B6B6;
+    border: #282828 solid;
+}
+
+.d-flex .btn:hover{  
+    margin: 5px !important;
+    background-color: #282828;
+    color: #B6B6B6;
+    border: #141414 solid;
+}
 /* Media queries para dispositivos móviles */
 @media screen and (max-width: 500px) {
     #info {
